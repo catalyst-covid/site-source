@@ -1,0 +1,4 @@
+baseURL = "https://catalyst-covid.github.io"
+languageCode = "en-us"
+title = "Catalyst COVID"
+theme = "novela"
