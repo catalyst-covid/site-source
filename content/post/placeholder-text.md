@@ -1,7 +1,7 @@
 ---
-title: Placeholder Text
+title: Placeholder Patients
 date: 2019-03-09
-hero: /images/hero-4.jpg
+hero: /images/covid-microscope.jpg
 excerpt: Lorem Ipsum Dolor Si Amet
 authors:
   - Hugo Authors
