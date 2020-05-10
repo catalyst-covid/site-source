@@ -1,13 +1,11 @@
 ---
 title: The World Wide COVID-19 Response
 date: 2020-04-23
-hero: "/images/covid-microscope.jpg"
+hero: "/images/dark-map.png"
 excerpt: The responses of countries such as China and Singapore to COVID-19 highlight the myriad ways that surveillance is used to police actions in modern disciplinary societies.
 authors:
   - "Branden"
 
----
----
 ---
 ## Intro:
 What is it that we mean when we say surveillance? The word itself evokes thoughts of George Orwell and Big Brother, but it’s easy to convince ourselves that we don’t always think of surveillance so negatively. What of the shopkeeper who wishes to reduce theft with security cameras? The taxi driver whose dash camera prevents insurance fraud? Is not the daycare worker who watches over a group of young children necessarily performing surveillance? And further isn’t this a form of surveillance that we necessarily endorse? These aren’t deep examples but they’re sufficient to lead us to a not so deep insight: surveillance is something we like in some contexts and dislike in others.
@@ -27,7 +25,8 @@ Before I begin, I’d just like to make a little editorial note here that I won�
 First things first, let’s talk surveillance techniques. Many different organizations have used many different methods of surveillance in response to the pandemic and I’ll be listing and discussing a few of them in the paragraphs below.
 ## Testing:
 I’d like to note that there exist multitudes of different forms of COVID testing of many different types, efficacies, reporting times, etc. These will go mostly undiscussed in this article. In stead I will be focusing on two types of COVID-19 test: the virus test and the antibody test. By the virus test I mean any sort of test that determines whether a person currently has the coronavirus and by the antibody test I mean any sort of test that determines whether a person has had the coronavirus before (this is especially important given that a significant portion of coronavirus cases are mostly or entirely asymptomatic). Of course, I’m simplifying here but these two definitions are sufficient for the purposes of this article.
- 
+
+![](/images/branden_graph.png) 
 ## Virus Testing:
 General availability of coronavirus testing appears to be one of the most significant determining factors of the efficacy of a given country’s COVID-19 response. To demonstrate, compare the testing programs of South Korea and Singapore (NOTE FOR ALEC AND AMY: Is there a nice way we could do footnotes? I like to insert little asides a lot but can’t really do footnotes on the website, maybe like a modal or something? Idk I chose this comparison as both are relatively wealthy nations in Southeast Asia. It’s worth noting that the per capita GDP of Singapore is almost twice that of South Korea, but this isn’t particularly important here. Both nations are modern and industrial with enough wealth for a central coronavirus response. Some may say that Singapore is an island and South Korea isn’t and thus ought to have an easier time with its response, however the only country South Korea borders is North Korea, and not much border crossing is happening there).
 South Korea implemented a centralized testing system, with walk-in clinics allowing the general populace to be tested (either for free or at little cost) in under half an hour. The South Korean government also provided quarantine stimulus packages, giving masks and gloves to those who tested positive, and ensuring that anyone stuck in quarantine had sufficient food and financial resources to survive.
