@@ -7,7 +7,7 @@ authors:
   - "Branden"
 
 ---
-## Intro:
+# Intro:
 What is it that we mean when we say surveillance? The word itself evokes thoughts of George Orwell and Big Brother, but it’s easy to convince ourselves that we don’t always think of surveillance so negatively. What of the shopkeeper who wishes to reduce theft with security cameras? The taxi driver whose dash camera prevents insurance fraud? Is not the daycare worker who watches over a group of young children necessarily performing surveillance? And further isn’t this a form of surveillance that we necessarily endorse? These aren’t deep examples but they’re enough to lead us to a not so deep insight: surveillance is something we like in some contexts and dislike in others.
 
 The examples I’ve provided are fairly one dimensional and we can easily distinguish what it is that makes us like or dislike the surveillance in question. Obviously, the Orwellian surveillance of 1984 and the daycare worker watching a group of children are two very different things. But the distinction between surveillance we desire and surveillance we don’t need not always be so clear. For instance, one criticism of surveillance of the Orwellian sort might be that it is nonconsensuala. No citizen requested they be watched over for their own benefit, it occurs independent of their desires. However, in other contexts, this is something we as a society totally accept and even endorse (here I must state that I am writing for an American audience and thus will use examples from an American context).
@@ -30,14 +30,14 @@ Gilles Deleuze, in an influential short essay titled “Postscript on the Societ
 
 The focus of this article is the discussion of the (as of its writing) ongoing COVID-19 pandemic and how it relates to issues of surveillance. What techniques have been used to surveil COVID-19? How have different surveillance societies responded to the pandemic? How might COVID-19, like 9/11, momentously modulate the societal parameters of surveillance? I’ll seek to shed some light on some of these questions.
  
-## COVID Surveillance:
+# COVID Surveillance:
 Before I begin, I’d just like to make a little editorial note here that I won’t be distinguishing between the virus SARS-CoV-2 and the disease it causes, Coronavirus disease 2019 or COVID-19. If this sort of thing annoys you, be warned.
 
 First things first, let’s talk surveillance techniques. Many different organizations have used many different methods of surveillance in response to the pandemic and I’ll be listing and discussing a few of them in the paragraphs below.
 
-## Testing:
+# Testing:
 
-![](/images/branden_graph.png)
+{{< figure src="/images/branden_graph.png" height=500 >}}
 
 I’d like to note that there exist multitudes of different forms of COVID testing of many different types, efficacies, reporting times, etc. These will go mostly undiscussed in this article. Instead I will be focusing on two types of COVID-19 test: the virus test and the antibody test. By the virus test I mean any sort of test that determines whether a person currently has the coronavirus and by the antibody test I mean any sort of test that determines whether a person has had the coronavirus before (this is especially important given that a significant portion of coronavirus cases are mostly or entirely asymptomatic). Of course, I’m simplifying here but these two definitions are sufficient for the purposes of this article.
  
@@ -66,7 +66,7 @@ It’s not currently clear how effective something like an immunity passport mig
 
 It’s difficult to accurately attain body temperature with just an external thermometer, and even given an accurate temperature reading, an abnormal body temperature doesn’t necessarily indicate the presence of coronavirus11. It’s easy to see that temperature checking is rather poor at distinguishing sick from healthy, and yet so many have readily adopted it. Based on this, I wouldn’t be surprised if a significant number of organizations began using antibody testing credentials to ascertain the health of their patrons, regardless of WHO recommendations.  Naturally an antibody test lacks the convenience of a temperature check and this may make it inviable for smaller operations, but as for airports or border stations such a check is far from unreasonable. What does this mean for the future? It’s truly hard to say. Only time will tell.
 
-## Contact Tracing:
+# Contact Tracing:
 One of the most prominent forms of surveillance used against COVID-19 is contact tracing. Contact tracing, in short, is the monitoring and tracing of infected individuals. It is used to understand how a disease has spread and where a disease might spread next, both useful things to know when responding to a pandemic12. Traditional contact tracing means testing the infected, interviewing them, and contacting those they may have infected. Naturally, digital solutions have become more popular in the modern era. I will discuss both.
 
 I’ve previously mentioned Singapore implemented an aggressive contact tracing program, one that I’ll discuss more here. Through its testing programs, Singapore (initially) did well to understand how the virus had spread and where it may go next. Though they recently rolled out a digital contact tracing app, Singaporean health ministers have doubted the efficacy of digital contact tracing systems13 and have mostly relied on traditional contact tracing methods in order to track the virusd. Of course, neither solution was sufficient due to systemic biases of the Singaporean testing apparatus, as we previously discussed.
@@ -77,7 +77,7 @@ The Chinese government took full advantage of this, requiring users of these app
 
 It’s notable that this intense digital contact tracing program was incredibly effective, with the Chinese flattening the curve and eventually lifting the lockdown orders6. Deleuze describes this sort of sorting as a “dividual” process, one that is continuously modulated just like the various social parameters from before. Control is exhibited on the individual by changing what various parts of the city they may or may not have access to in a scheme that is continuously in flux. In describing dividual processes, Deleuze draws off a scenario presented by his long-time collaborator Felix Guattari that eerily mirrors the Chinese situation. Guattari imagines a city that individuals are granted access to the various sections of based on (dividual) cards each one carries. Of course, the powers that be may decide to only grant this access at certain times or on certain days, but what is truly important is that this mechanism of control exists in the first place, perfectly mirroring the Chinese situation. This social sorting that controls how an individual participates in society based on continuously modulating parameters is exactly what Deleuze means when he describes a society of controle.
 
-## The Societal Implications of COVID-19:
+# The Societal Implications of COVID-19:
 With this discussion of some of the surveillance techniques that have been used during the coronavirus pandemic and how we might understand them in the lens of some surveillance theorists out of the way, I’d like to turn our thoughts to the implications that coronavirus may have on the worldwide community. Will the coronavirus pandemic be a 9/11 like event in terms of how it shifts the social parameters related to surveillance? Of course, it’s difficult to say given that the pandemic is far from over, but ‘probably’ seems to be the most reasonable answer.
 
 Purely in terms of how we’ve understood the pandemic in terms of Deleuze’s ideas on societies of control, it seems very difficult to say that this won’t result in a shift of those societal parameters. The pandemic has been shocking and highly unprecedented. It has presented unpredictable challenges to our governments, our economies, and our healthcare systems. It has necessitated long periods of social isolation and reinvigorated tribal fears of out-groups. In a very fundamental way, it has made people distrustful of all those around them, living in constant paranoia of contracting a potentially deadly virus. Given the necessary cultural manifestations of these various shocks, it is difficult to say that there won’t be any modulation at all or that there will be a modulation towards less surveillance. The unique nature of the pandemic necessitates that the modulation be towards that of a stronger surveillance system.
