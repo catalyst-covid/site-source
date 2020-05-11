@@ -1,6 +1,6 @@
 ---
 title: A Musical Inspiration
-date: 2020-04-29
+date: 2020-04-09
 hero: "/images/lonely-window.png"
 excerpt: A List of Terms and People centeral to many of these articles.
 authors:
