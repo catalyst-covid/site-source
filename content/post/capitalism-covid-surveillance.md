@@ -1,7 +1,7 @@
 ---
 title: Surveillance Capitalism in a COVID-19 World
 date: 2020-04-10
-hero: "/images/cameras.jpg"
+hero: "/images/cons-isolation.jpeg"
 excerpt: The COVID-19 pandemic has brought about the degradation of social institutions. Restaurants, movie theaters, and gyms lie abandoned, cars no longer fill the street. Social institutions where humans congregated and interacted are now gone. These stay-at-home orders issued by the government and encouraged by the public have relegated the vast majority of American citizens to their homes.
 authors:
   - "Caleb"
@@ -9,7 +9,8 @@ authors:
 ---
 ---
 
-## Consumers in Isolation
+
+# Consumers in Isolation
 
 The COVID-19 pandemic has brought about the degradation of social institutions. Restaurants, movie theaters, and gyms lie abandoned, cars no longer fill the street. Social institutions where humans congregated and interacted are now gone. These stay-at-home orders issued by the government and encouraged by the public have relegated the vast majority of American citizens to their homes.
     
@@ -17,7 +18,10 @@ Reports show that this pattern is here to stay. Georgia, one of the first states
 
 The domination of online shopping may trend till the end of the pandemic. In the meantime, corporations face a dire need to transition to online platforming, if and where possible. Fitness trainers now publish exercise demonstrations online. Streaming video-on-demand platforms such as Netflix, Amazon Prime Video, and Hulu have added movie releases to their libraries that would otherwise be in theaters. Restaurants focus entirely on delivery and pick-up orders, totally restructuring their business model and physical layout. What results is an interplay with what surveillance studies term surveillance capitalism and Big Data.
 
-## Classic Surveillance Capitalism
+# Classic Surveillance Capitalism
+
+{{< figure src="/images/classic-surv.jpeg" height=500 >}}
+---
     
 Surveillance capitalism is not a new concept in surveillance studies. Definable as the implementation of surveillance practices in a capitalist economic system, it has two main tenets: 
 
@@ -36,7 +40,10 @@ What surveillance capitalism fundamentally deals with, then, is *Big Data*—”
 
 Data is the single most important input of labor in a surveillance capitalist society. So much so that it’s essentially a prerequisite for it. But, let’s take a step back. Who generates data for firms? What are the consequences of this system?
 
-## Shoshana Zuboff
+# Shoshana Zuboff
+
+{{< figure src="/images/not-shoshana.jpeg" height=500 >}}
+---
 
 Another eminent surveillance scholar, **Shoshana Zuboff**, focuses on the ramifications of such a surveillance capitalist society [in a documentary published on YouTube](https://www.youtube.com/watch?v=hIXhnWUmMvw). If every one of our actions can be digitized and commodified, how can firms abuse it? Fundamentally, Zuboff highlights the ethical debate around surveillance capitalist methods as it relates to privacy and human integrity… 
 
@@ -52,7 +59,10 @@ Related to the above question, while Degli-Esposti states that transparency over
 
 These are just some of the ethical dilemmas associated with surveillance capitalism and Big Data. The data economy is not limited to the private sector, nor is it only for the benefit of consumers. Perhaps Shoshana Zuboff’s most challenging question to us, as consumers in a surveillance capitalist system, is how does it feel to be reduced to a single data point? To have your actions distilled into an input of labor for corporations to use? To be filed under a demographic? To have your psychology steered using methodologies that are subliminal and beyond your control? She asks relevant questions about the application of surveillance technology in a capitalist system—questions that are all the more relevant now that so much of the economy has been digitized by necessity.
 
-## A New Precedent through Quarantine
+# A New Precedent through Quarantine
+
+{{< figure src="/images/new-precedent.jpeg" height=500 >}}
+---
 
 All of our discourse so far has been centered on the world as we *knew* it. We haven’t even *begun* to synthesize surveillance capitalism with the great unknown brought about by COVID-19. And while the effects of pre-COVID-19 surveillance capitalism and Big Data are still very much understudied and fresh for evaluation, we definitely have a new lens with which to analyze this.
 
@@ -62,8 +72,11 @@ Returning to surveillance scholar David Lyon, this phenomena can be explained th
 
 Surveillance capitalism and Big Data are just facets of our culture of surveillance. Our economy functions as a result of a tacitly negotiated process where firms are able to extract our data and use it for commercial purposes, as facilitated by digital means, because we crave efficiency and optimization. And yes, the COVID-19 pandemic may represent a new precedent for societies engrained in capitalism, technology, and surveillance. By isolating people in homes and shuttering stores, it has accelerated the rate in which firms and consumers accept technology as a way to streamline, optimize, and solve. Big Data companies will only see more opportunity to expand, and the issues Shoshana Zuboff highlights may deepen even further. Digital privacy as we know it—as tenuous as it already is—could erode even further.
 
-## A Personal Reflection
-    
+# A Personal Reflection
+
+{{< figure src="/images/personal-retro.jpeg" height=500 >}}
+---
+
 As a Film and Economics major, it’s been exhilarating watching the entertainment industry deal with the pandemic. But part of that is a shift towards over-the-top streaming platforms like Netflix, a platform that’s very much a reflection of narrowcasting content to niche demographics as defined by viewership. A platform that’s proven extremely capable of synthesizing and amalgamating ideas to make the next big hit, a la House of Cards. These changes that are occurring could very well have extreme ramifications for both of my majors.
 
 An ‘agnostic’ viewpoint isn’t entirely beneficial. To simply look at things as objectively as possible, to give in to the admission that there isn’t enough data to definitively prove anything, or to blindly accept the ensuing digitization of society… it seems very much like a copout. Zuboff pinpoints grave social issues that have *already* developed as a result of surveillance capitalism. And while it’s hard to outright resist the tide of culture in bringing about technologicized commerce, what people need to hold onto is their ability to think critically. Their ability to hold firms and themselves accountable, and make value judgments on what benefits them vs. makes them unduly subject to corporate interests. That’s the key to coexisting with COVID-19’s economic and social ramifications.

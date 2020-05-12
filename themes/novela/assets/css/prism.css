@@ -6,6 +6,12 @@ https://prismjs.com/download.html#themes=prism-tomorrow&languages=markup+css+cli
  * @author Rose Pritchard
  */
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 code[class*="language-"],
 pre[class*="language-"] {
 	color: #ccc;
